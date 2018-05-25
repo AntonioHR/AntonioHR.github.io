@@ -1,0 +1,11 @@
+/* your styles go here */
+
+.portrait {
+	width: 80%;
+	display: block;
+	margin: 10% auto;
+}
+
+.sidebar {
+	position: fixed;
+}
